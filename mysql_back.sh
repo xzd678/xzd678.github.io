@@ -1,2 +1,3 @@
-Enter file contents here
 #/bin/sh
+#backup mysql server
+mysql
